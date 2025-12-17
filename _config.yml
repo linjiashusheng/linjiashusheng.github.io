@@ -1,8 +1,6 @@
 title: "邻家书生的创作空间"
 baseurl: ""
 url: "https://linjiashusheng.github.io"
-theme: minima
-
-# 确保首页能显示文章列表的关键设置
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
