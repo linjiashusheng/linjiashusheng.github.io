@@ -1,4 +1,14 @@
 title: "邻家书生的创作空间"
+email: "your-email@example.com"
+description: "公众号/视频号创作者的个人网站。"
 baseurl: ""
 url: "https://linjiashusheng.github.io"
-theme: jekyll-theme-minimal
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# 使用最稳定、兼容性最好的Minima主题
+theme: minima
+
+# 核心插件，确保功能正常
+plugins:
+  - jekyll-feed
