@@ -1,14 +1,5 @@
-title: "邻家书生的创作空间" # 你的网站大标题
-author: "邻家书生"    # 你的名字
-description: "公众号/视频号创作者，分享我的文章与思考。" # 网站描述
-baseurl: "" # 保持为空，不要删除
-url: "https://linjiashusheng.github.io" # 你的网站地址
 
-# 在这里选择并应用一个主题
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-  - jekyll-remote-theme
-
-# 主题的个性化设置（可选）
-cayman:
-  skin: light # 皮肤: light (明亮) 或 dark (暗黑)
+title: "邻家书生的创作空间"
+baseurl: ""
+url: "https://linjiashusheng.github.io"
+theme: minima
